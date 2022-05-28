@@ -16,7 +16,7 @@ function App() {
                 <Page/>
             </ThemeContext.Provider>
         </ThemeProvider>
-    );
+    )
 }
 
 export default App;
