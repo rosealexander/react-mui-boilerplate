@@ -2,7 +2,7 @@ import {Box, Container, Grid} from "@mui/material";
 import Navbar from "./Navbar";
 import Footer from "./Footer";
 import {createContext, useState} from "react";
-import PageNavigation from "./PageNavigation";
+import Body from "./Body";
 
 export const LayoutContext = createContext([]);
 
@@ -31,7 +31,7 @@ const Page = () => {
                             <Navbar/>
                         </Grid>
                         <Grid item>
-                            <PageNavigation/>
+                            <Body/>
                         </Grid>
                     </Grid>
                     <Footer/>
