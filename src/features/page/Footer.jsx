@@ -33,7 +33,6 @@ const Footer = () => {
             </Grid>
         </Box>
     )
-
 }
 
 export default Footer
