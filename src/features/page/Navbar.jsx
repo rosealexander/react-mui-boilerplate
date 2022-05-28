@@ -7,7 +7,6 @@ import {LayoutContext} from "./Page";
 import theme from "../theme/theme";
 import {FaReact} from "react-icons/fa";
 
-
 const Navbar = () => {
     const [layout, setLayout] = useContext(LayoutContext)
 
@@ -27,9 +26,11 @@ const Navbar = () => {
         >
             <Grid item>
                 <Button
+                    disableRipple
                     onClick={handleNavChange}
                     color='secondary'
                     size='small'
+                    style={{ backgroundColor: 'transparent' }}
                 >
                     <Grid
                         container
@@ -100,7 +101,7 @@ const Navbar = () => {
                 </Grid>
             </Grid>
         </Grid>
-    );
+    )
 }
 
 export default Navbar
