@@ -1,4 +1,4 @@
-![CI/CD](https://github.com/rosealexander/react-mui-boilerplate/actions/workflows/main.yml/badge.svg)
+[![CI/CD](https://github.com/rosealexander/react-mui-boilerplate/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/rosealexander/react-mui-boilerplate/actions/workflows/main.yml)
 # Create React App + Material UI
 ![React + Material UI logos](./react_mui.png)
 
