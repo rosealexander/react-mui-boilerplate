@@ -1,7 +1,8 @@
+![CI/CD](https://github.com/rosealexander/react-mui-boilerplate/actions/workflows/main.yml/badge.svg)
 # Create React App + Material UI
 ![React + Material UI logos](./react_mui.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### Available Scripts
 
@@ -45,10 +46,13 @@ Instead, it will copy all the configuration files and the transitive dependencie
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
 ## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-Take a look at the [Material Design Framework](https://material.io/design/introduction) and get started using the 
+- Take a look at the [Material Design Framework](https://material.io/design/introduction) and get started using the
 [Material UI component library](https://mui.com).
+- You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- To learn React, check out the [React documentation](https://reactjs.org/).
+
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[![MIT License][license-shield]][license-url]
+
+[license-shield]: https://img.shields.io/github/license/rosealexander/react-mui-boilerplate.svg?style=for-the-badge
+[license-url]: https://github.com/rosealexander/react-mui-boilerplate/blob/master/LICENSE
